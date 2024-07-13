@@ -168,3 +168,16 @@
 +defaults/win-64::zlib-1.2.13-h8cc25b3_0
 +defaults/win-64::zstd-1.5.5-hd43e919_0
 # update specs: ['jupyter', 'matplotlib', 'numpy', 'pandas', 'scikit-learn']
+==> 2024-07-13 11:22:21 <==
+# cmd: C:\Users\richa\miniconda3\Scripts\conda-script.py install --yes --prefix c:\Users\richa\Desktop\DataScienceProject\env seaborn
+# conda version: 24.3.0
+-defaults/win-64::ca-certificates-2024.3.11-haa95532_0
+-defaults/win-64::certifi-2024.2.2-py312haa95532_0
+-defaults/win-64::openssl-3.0.13-h2bbff1b_0
+-defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/win-64::ca-certificates-2024.7.2-haa95532_0
++defaults/win-64::certifi-2024.7.4-py312haa95532_0
++defaults/win-64::openssl-3.0.14-h827c3e9_0
++defaults/win-64::seaborn-0.13.2-py312haa95532_0
++defaults/win-64::vs2015_runtime-14.29.30133-h43f2093_4
+# update specs: ['seaborn']
